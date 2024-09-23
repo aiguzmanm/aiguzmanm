@@ -10,7 +10,6 @@ Soy un programador amateur, con interés en mejorar y aprender cada día más. T
 ## Áreas de interés
 - Automatización de procesos
 - Análisis de datos
-- Desarrollo web
 
 ## Habilidades actuales
 - **Lenguajes:** Python, SQL
